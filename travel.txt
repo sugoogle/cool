@@ -1,3 +1,4 @@
 Packing list
 
 -shoes
+-camera
